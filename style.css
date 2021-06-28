@@ -54,6 +54,7 @@ img {
     background-color: azure;
     box-shadow: 0 1px 20px rgb(187, 187, 187);
     border-radius: 50%;
+    z-index: 1000;
 }
 
 .audio_layout {
